@@ -8,6 +8,6 @@
     "start": "node checkin.js"
   },
   "dependencies": {
-    "cloud189-sdk": "^2.1.5"
+    "cloud189-sdk": "^1.0.9"
   }
 }
