@@ -1,0 +1,13 @@
+{
+  "name": "cloud189-checkin",
+  "version": "2.0.0",
+  "private": true,
+  "description": "天翼云盘自动签到（扫码令牌版，基于 cloud189-sdk）",
+  "main": "checkin.js",
+  "scripts": {
+    "start": "node checkin.js"
+  },
+  "dependencies": {
+    "cloud189-sdk": "^2.1.5"
+  }
+}
